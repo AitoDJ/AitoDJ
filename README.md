@@ -17,7 +17,6 @@ Ara toca crear els alies (o registres de tipus CNAME) que relacionen un nom amb 
 ![image](https://github.com/AitoDJ/deus-mp07-uf01-04-dns-win2020/assets/145341924/197d95c5-5daf-41a4-aea7-7a5ac40a4fe3)
 
 La seguent llista mostra la relació entre HOST i CNAME:
-
 HOST            CNAME
 izandeus        izan
 sarajurado      sara
